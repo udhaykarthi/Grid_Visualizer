@@ -31,7 +31,7 @@ A Java Swing application to **visualize grid-based algorithms**: BFS, DFS, and A
 
 1. Clone or download the repository:
    ```bash
-   git clone <[repository_url](https://github.com/udhaykarthi/Grid_Visualizer.git)>
+   git clone https://github.com/udhaykarthi/Grid_Visualizer.git
 2. Open the project in your Java IDE (IntelliJ, Eclipse, or VS Code with Java support).
 
 3. Compile and run the Main.java file.
