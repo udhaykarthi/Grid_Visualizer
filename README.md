@@ -16,6 +16,7 @@ A Java Swing application to **visualize grid-based algorithms**: BFS, DFS, and A
 
 ## Demo
 
+![Screen Recording 2025-09-15 at 09 52 31](https://github.com/user-attachments/assets/51316839-9bd3-4bc9-8d64-1de856810084)
 
 
 
